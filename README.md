@@ -27,17 +27,24 @@ Thanks To CRYPTO KOTHA
 
 ## 🧪 How to Use
 
-```bash
+
 # Step 1: Clone the repository
+```bash
 git clone https://github.com/AirdropScriptFA/NexusSpeed.git
+```
 
 # Step 2: Enter the project directory
+```bash
 cd NexusSpeed
+```
 
 # Step 3: Run the script
-bash nexus.sh
+```bash
+./nexus.sh
+```
 
 ---
+
 >Coffee Please 🥺 
 ```bash
 0x4Ea82Aa57Da104FA1bB703134A08EAb89B5AEC30
