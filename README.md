@@ -3,7 +3,7 @@
 A simple and powerful script to launch and manage your Nexus Testnet nodes quickly.  
 With ❤️ by [ForestArmy](https://t.me/forestarmy)
 
-Thank You CRYPTO KOTHA 
+Thanks To CRYPTO KOTHA 
 
 ---
 
@@ -36,3 +36,13 @@ cd NexusSpeed
 
 # Step 3: Run the script
 bash nexus.sh
+
+---
+>Coffee Please 🥺 
+```bash
+0x4Ea82Aa57Da104FA1bB703134A08EAb89B5AEC30
+```
+> Nexus CLI
+```bash
+0x1dB09B99744Fd85A2C7AEa31548D0865b4C67fdd
+```
