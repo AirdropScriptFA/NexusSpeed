@@ -1,7 +1,7 @@
 # 🚀 NexusSpeed
 
 A simple and powerful script to launch and manage your Nexus Testnet nodes quickly.  
-With ❤️ by [@ForestArmy](https://t.me/forestarmy)
+With ❤️ by [ForestArmy](https://t.me/forestarmy)
 Thank To CRYPTO KOTHA 
 
 ---
