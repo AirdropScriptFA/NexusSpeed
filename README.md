@@ -28,19 +28,19 @@ Thanks To CRYPTO KOTHA
 ## 🧪 How to Use
 
 
-# Step 1: Clone the repository
+### Step 1: Clone the repository
 ```bash
 git clone https://github.com/AirdropScriptFA/NexusSpeed.git
 ```
 
-# Step 2: Enter the project directory
+### Step 2: Enter the directory
 ```bash
 cd NexusSpeed
 ```
 
-# Step 3: Run the script
+### Step 3: Run the script
 ```bash
-./nexus.sh
+bash nexus.sh
 ```
 
 ---
